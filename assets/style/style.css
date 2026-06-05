@@ -1,0 +1,87 @@
+/* container 1 */
+.container1{
+    min-height: 500px;
+    width: 90%;
+    background-color: #fce7f3;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 15px;
+    max-width: 300px;
+}
+
+/* container 2 */
+.container2{
+    height: 200px;
+    width: 90%;
+    background-color: whitesmoke;
+    margin: auto;
+    border-radius: 13px;
+
+    background-image: url(https://thumbs.dreamstime.com/b/young-executive-woman-profile-icon-beautiful-vector-illustration-design-81933158.jpg);
+
+    background-size: cover;
+    background-position: center;
+}
+
+/* text box */
+.textbox{
+    height: 300px;
+    width: 90%;
+    border-radius: 15px;
+    margin-left: 4px;
+    display: inline-block;
+    color: #1f2937;
+}
+
+/* name */
+.name{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* bio */
+.bio{
+    font-weight: normal;
+    font-size: 15px;
+    margin-left: 13px;
+}
+
+/* rating */
+.rating{
+    font-weight: normal;
+    font-size: 15px;
+    text-align: left;
+    display: inline-block;
+    margin-left: 26px;
+}
+
+/* earned */
+.earned{
+    font-weight: normal;
+    font-size: 15px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 26px;
+}
+
+/* rate */
+.rate{
+    font-weight: normal;
+    font-size: 15px;
+    text-align: right;
+    display: inline-block;
+    margin-left: 26px;
+}
+
+/* button */
+button{
+
+    width: 100%;
+    text-align: center;
+    margin-left: 6px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid black;
+    color: aliceblue;
+    background-color: #db2777;
+}
