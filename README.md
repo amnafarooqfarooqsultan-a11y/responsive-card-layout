@@ -1,2 +1,2 @@
-! [Responsive Card Layout]
+! [Screenshot]
 (screenshot.png)
